@@ -1,0 +1,14 @@
+body {
+    font-family: Aria, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+#result {
+    font-weight: bold;
+    color: green;
+}
+
+#error {
+    color: red;
+}
